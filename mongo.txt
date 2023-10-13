@@ -1,0 +1,1 @@
+db.products.updateOne({id:_2}, {$set:{feedback:[{"Author name":"Gayyy"},{"Rating":4.5},{"Review":"What a great pencil."}]}})
