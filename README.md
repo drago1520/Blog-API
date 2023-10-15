@@ -1,5 +1,5 @@
 # Blog-API
-I created the API for the Blog to add, edit, delete posts. The Front-end was pre-installed. All HTTP requests were used.
+I created the API for the Blog to add, edit, delete posts. Also to send these requests. All HTTP requests were used.
 
 How to run:
 1. Install mongoDB latest.
